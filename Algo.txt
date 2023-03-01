@@ -1,0 +1,10 @@
+Decide on the type of pizza you want,
+Look up the phone number or website of your preferred pizza restaurant.
+Determine the size of the pizza you want to order
+Choose any toppings
+Provide your contact information.
+Confirm the delivery or pickup time that works for you.
+Specify any special instructions.
+Provide your payment information.
+Wait for pizza.
+Eat pizza.
